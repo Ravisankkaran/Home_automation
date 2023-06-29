@@ -32,7 +32,7 @@ This project enables you to control your home appliances remotely using an IoT c
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/home-automation.git
+[git clone https://github.com/your-username/home-automation.git](https://github.com/Ravisankkaran/Home_automation.git)
 ```
 
 2. Open the Arduino IDE and install the ESP8266 board support by following the instructions provided by the board manufacturer.
